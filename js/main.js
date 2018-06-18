@@ -9,10 +9,10 @@ $(document).ready(function () {
     // var currentColor = localStorage.getItem('selectedColor');
     // (currentColor === null) ? currentColor = "#E41B17" : currentColor;
 
-    $("html").niceScroll({
+    $(".content").niceScroll({
         zindex: 9999,
         cursorcolor: "#E41B17",
-        cursorwidth: "7px",
+        cursorwidth: "6px",
         horizrailenabled: false
     });
     // End Nice Scroll
