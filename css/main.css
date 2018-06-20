@@ -66,6 +66,9 @@ html::-webkit-scrollbar { display: none; }
     opacity: 0.3;
 }
 
+.content .box:hover > a img,
+.content .box:active > a img { opacity: .7; }
+
 .content .box .box-content {
     position: absolute;
     top: 50%;
@@ -87,7 +90,6 @@ html::-webkit-scrollbar { display: none; }
 	display: inline-block;
     width: 80px;
     line-height: 80px;
-    background-color: red;
     border-radius: 50%;
 }
 /* End Content */

@@ -46,9 +46,9 @@
         <div class="collapse navbar-collapse" id="myNavbar">
           <ul class="nav navbar-nav navbar-right">
             <li class="active"><a href="index.html">Home</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="faq.html">FAQ</a></li>
-            <li class="dropdown">
+            <li><a href="about.html">Settings</a></li>
+            <li><a href="faq.html">Logout</a></li>
+            <!-- <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="#">Programming</a></li>
@@ -56,8 +56,7 @@
                 <li role="separator" class="divider"></li>
                 <li><a href="#">Web Hosting</a></li>
               </ul>
-            </li>
-            <li><a href="#">Contact</a></li>
+            </li> -->
           </ul>
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container -->
@@ -69,7 +68,7 @@
       <div class="row">
         <div class="col-xs-6 col-sm-4">
           <div class="box">
-            <a href="orders">
+            <a href="<?php dirname(__FILE__) ?>orders">
               <img src="images/boxes/pic1.jpg" alt="">
               <div class="box-content">
                 <i>o</i>
@@ -80,7 +79,7 @@
         </div>
         <div class="col-xs-6 col-sm-4">
           <div class="box">
-            <a href="tables">
+            <a href="<?php dirname(__FILE__) ?>tables">
               <img src="images/boxes/pic2.jpg" alt="">
               <div class="box-content">
                 <i>t</i>
@@ -91,7 +90,7 @@
         </div>
         <div class="col-xs-6 col-sm-4">
           <div class="box">
-            <a href="staff">
+            <a href="<?php dirname(__FILE__) ?>staff">
               <img src="images/boxes/pic3.jpg" alt="">
               <div class="box-content">
                 <i>s</i>
@@ -102,7 +101,7 @@
         </div>
         <div class="col-xs-6 col-sm-4">
           <div class="box">
-            <a href="menu">
+            <a href="<?php dirname(__FILE__) ?>menu">
               <img src="images/boxes/pic4.jpg" alt="">
               <div class="box-content">
                 <i>m</i>
@@ -113,7 +112,7 @@
         </div>
         <div class="col-xs-6 col-sm-4">
           <div class="box">
-            <a href="reports">
+            <a href="<?php dirname(__FILE__) ?>reports">
               <img src="images/boxes/pic5.jpg" alt="">
               <div class="box-content">
                 <i>r</i>
@@ -124,7 +123,7 @@
         </div>
         <div class="col-xs-6 col-sm-4">
           <div class="box">
-            <a href="buy">
+            <a href="<?php dirname(__FILE__) ?>buy">
               <img src="images/boxes/pic6.jpg" alt="">
               <div class="box-content">
                 <i>b</i>
@@ -135,7 +134,7 @@
         </div>
         <div class="col-xs-6 col-sm-4">
           <div class="box">
-            <a href="settings">
+            <a href="<?php dirname(__FILE__) ?>settings">
               <img src="images/boxes/pic7.jpg" alt="">
               <div class="box-content">
                 <i>s</i>
@@ -146,7 +145,7 @@
         </div>
         <div class="col-xs-6 col-sm-4">
           <div class="box">
-            <a href="share">
+            <a href="<?php dirname(__FILE__) ?>share">
               <img src="images/boxes/pic8.jpg" alt="">
               <div class="box-content">
                 <i>s</i>
@@ -157,7 +156,7 @@
         </div>
         <div class="col-xs-6 col-sm-4">
           <div class="box">
-            <a href="quite">
+            <a href="<?php dirname(__FILE__) ?>quite">
               <img src="images/boxes/pic9.jpg" alt="">
               <div class="box-content">
                 <i>q</i>

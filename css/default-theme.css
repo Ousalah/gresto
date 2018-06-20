@@ -6,7 +6,8 @@
 .dropdown-menu > li > a:hover,
 .dropdown-menu > li > a:focus,
 .cssload-loader::before,
-.cssload-loader::after { background-color: #E41B17; }
+.cssload-loader::after,
+.content .box .box-content i { background-color: #E41B17; }
 
 .navbar-inverse .navbar-brand span,
 .footer h3,
