@@ -1,7 +1,7 @@
 <?php require_once("fragments/header.php"); ?>
 
     <!-- Start Content -->
-    <div class="content">
+    <div class="home content">
       <div class="container">
         <div class="row">
           <div class="col-xs-6 col-sm-4">

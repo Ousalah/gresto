@@ -2,6 +2,14 @@ body {
     padding-top: 70px;
     overflow: hidden;
     height: 100vh;
+	/* start avoid select if scroll down by mouse*/
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    /* end avoid select if scroll down by mouse*/
 }
 
 h1, h2, h3, h4, h5, .lead { font-family: 'Droid Sans', sans-serif; }
@@ -37,11 +45,50 @@ html::-webkit-scrollbar { display: none; }
 
 /* Navbar Toggle*/
 .navbar-toggle { margin-top: 18px; }
+
+
+/* start sub navbar */
+.my-sub-navbar {
+	min-height: 50px;
+	background-color: #333;
+	margin-top: 68px;
+	overflow-x: auto;
+	z-index: 1029;
+}
+
+.my-sub-navbar .navbar-nav {
+			width: 100%;
+			text-align: left;
+			margin: 0;
+			white-space: nowrap;
+			overflow-x: auto;
+	-webkit-overflow-scrolling: touch;
+	   -moz-overflow-scrolling: touch;
+		-ms-overflow-scrolling: touch;
+		 -o-overflow-scrolling: touch;
+			overflow-scrolling: touch;
+}
+
+.my-sub-navbar .navbar-nav::-webkit-scrollbar { display: none; }
+
+.my-sub-navbar .navbar-nav > li {
+	float: none;
+	display: inline-block;
+}
+
+.my-sub-navbar .navbar-nav > li > a {
+	color: #BBB;
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+	font-size: 16px;
+	line-height: 50px;
+}
+/* end sub navbar */
 /*******  End Overriding Bootstrap *******/
 
 
-/* Start Content */
-.content {
+/* Start Home Content */
+.home.content {
 	position: relative;
 	background-color: #000;
 	opacity: 0.85;
@@ -49,27 +96,32 @@ html::-webkit-scrollbar { display: none; }
 	padding: 10px 20px 60px;
 }
 
-.content .row > div {
+.home.content .row > div {
 	padding: 15px;
 }
 
-.content .box {
+.home.content .box {
     border: 1px solid rgba(85, 85, 85, .07);
     height: 250px;
     position: relative;
     overflow: hidden;
 }
 
-.content .box img {
+.home.content .box > a {
+	height: 100%;
+	display: block;
+}
+
+.home.content .box img {
     width: 100%;
     height: 100%;
     opacity: 0.3;
 }
 
-.content .box:hover > a img,
-.content .box:active > a img { opacity: .7; }
+.home.content .box:hover > a img,
+.home.content .box:active > a img { opacity: .7; }
 
-.content .box .box-content {
+.home.content .box .box-content {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -80,19 +132,79 @@ html::-webkit-scrollbar { display: none; }
     text-align: center;
 }
 
-.content .box .box-content i,
-.content .box .box-content span {
+.home.content .box .box-content i,
+.home.content .box .box-content span {
 	text-transform: uppercase;
 	display: block;
 }
 
-.content .box .box-content i {
+.home.content .box .box-content i {
 	display: inline-block;
     width: 80px;
     line-height: 80px;
     border-radius: 50%;
 }
-/* End Content */
+/* End Home Content */
+
+
+
+/* Start Tables Content */
+.tables.content {
+	position: relative;
+	background-color: #000;
+	opacity: 0.85;
+	min-height: 100%;
+	padding: 80px 20px 60px;
+}
+
+.tables.content .single-table {
+    position: relative;
+    height: 90px;
+    overflow: hidden;
+    background: #fff;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.tables.content .single-table.single-table-banned {
+    opacity: .75;
+    pointer-events: none;
+    cursor: not-allowed;
+}
+
+.tables.content .single-table > a {
+	height: 100%;
+	display: block;
+	padding: 10px;
+}
+
+.tables.content .single-table .single-table-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #000;
+    font-size: 14px;
+    font-weight: bold;
+    height: 100%;
+    width: 100%;
+}
+
+.tables.content .single-table .single-table-content > .table-icon,
+.tables.content .single-table .single-table-content > .table-number {
+	display: block;
+}
+
+.tables.content .single-table .single-table-content > .table-icon {
+	margin: 5px 5px 0px;
+}
+
+.tables.content .single-table .single-table-content > .table-number {
+	text-transform: uppercase;
+
+}
+/* End Tables Content */
 
 
 
@@ -101,17 +213,17 @@ html::-webkit-scrollbar { display: none; }
 
 /* Start fixed footer */
 .footer {
-   position:fixed;
-   left:0px;
-   bottom:0px;
-   min-height:55px;
-   width:100%;
+	position:fixed;
+	left:0px;
+	bottom:0px;
+	min-height:55px;
+	width:100%;
 }
 
 /* IE 6 */
 * html .footer {
-   position:absolute;
-   top:expression((0-(footer.offsetHeight)+(document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight)+(ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop))+'px');
+	position:absolute;
+	top:expression((0-(footer.offsetHeight)+(document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight)+(ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop))+'px');
 }
 /* End fixed footer */
 

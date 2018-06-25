@@ -22,7 +22,7 @@
 	}
 
     .navbar-fixed-top .navbar-collapse,
-    .navbar-fixed-bottom .navbar-collapse { max-height: none; } 
+    .navbar-fixed-bottom .navbar-collapse { max-height: none; }
 
     .footer { text-align: center; }
 }
