@@ -24,6 +24,20 @@
     .navbar-fixed-top .navbar-collapse,
     .navbar-fixed-bottom .navbar-collapse { max-height: none; }
 
+	.orders.content .order-detail .order-title {
+		vertical-align: unset;
+		height: 45px;
+	}
+
+	.orders.content .order-detail .order-price {
+		vertical-align: unset;
+		height: auto;
+	}
+
+	.orders.content .order-detail .order-qte {
+		margin: 0 auto;
+	}
+
     .footer { text-align: center; }
 }
 

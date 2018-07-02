@@ -202,10 +202,77 @@ html::-webkit-scrollbar { display: none; }
 
 .tables.content .single-table .single-table-content > .table-number {
 	text-transform: uppercase;
-
 }
 /* End Tables Content */
 
+
+/* Start Order Content */
+.orders.content {
+    position: relative;
+    background-color: #000;
+    opacity: 0.85;
+    min-height: 100%;
+    padding: 10px 20px 60px;
+}
+
+.orders.content .order-detail {
+    height: 100px;
+    padding: 10px;
+    background: #fff;
+    border-bottom: 1px solid gray;
+    color: gray;
+}
+
+.orders.content .order-detail:last-child {
+    border-bottom: none;
+}
+
+.orders.content .order-detail img {
+    width: 120px;
+    height: 80px;
+    /*border-radius: 7px;*/
+}
+
+.orders.content .order-detail .order-title {
+    font-size: 18px;
+    text-transform: capitalize;
+    white-space: nowrap;
+    display: table-cell;
+    vertical-align: middle;
+    height: 80px;
+}
+
+/*.orders.content .order-detail .order-title < div {
+    overflow: hidden;
+}*/
+
+.orders.content .order-detail .order-price {
+    font-size: 16px;
+    display: table-cell;
+    vertical-align: middle;
+    height: 80px;
+}
+
+.orders.content .order-detail .order-qte {
+    width: 60px;
+    height: 30px;
+    text-align: center;
+    background: transparent;
+    border: 2px solid gray;
+    border-radius: 5px;
+    box-shadow: none;
+    color: gray;
+    font-size: 16px;
+    margin: 25px auto 0;
+    padding: 6px 3px;
+}
+
+.orders.content .order-detail .order-delete {
+    position: absolute;
+    right: 20px;
+    color: gray;
+}
+/* end Orders content */
 
 
 /* Start Section Footer */
