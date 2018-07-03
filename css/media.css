@@ -25,13 +25,13 @@
     .navbar-fixed-bottom .navbar-collapse { max-height: none; }
 
 	.orders.content .order-detail .order-title {
-		vertical-align: unset;
 		height: 45px;
+		line-height: normal;
 	}
 
 	.orders.content .order-detail .order-price {
-		vertical-align: unset;
 		height: auto;
+		line-height: normal;
 	}
 
 	.orders.content .order-detail .order-qte {

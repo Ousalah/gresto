@@ -11,12 +11,12 @@
 					<div class="col-xs-8 col-sm-9">
 						<div class="row">
 							<div class="col-xs-12 col-sm-7">
-								<span class="order-title">Product title without description</span>
+								<span class="order-title">Product title without description Product title without description Product title without description</span>
 							</div>
-							<div class="col-xs-4 col-sm-2">
+							<div class="col-xs-5 col-sm-2">
 								<span class="order-price">10 DH</span>
 							</div>
-							<div class="col-xs-4 col-sm-1">
+							<div class="col-xs-7 col-sm-1">
 								<input type="text" class="form-control order-qte" value="1">
 							</div><!-- 
 							<div class="col-xs-4 col-sm-2">
@@ -37,12 +37,12 @@
 					<div class="col-xs-8 col-sm-9">
 						<div class="row">
 							<div class="col-xs-12 col-sm-7">
-								<span class="order-title">Product title without description</span>
+								<span class="order-title">Product title without description Product title without description Product title without description</span>
 							</div>
-							<div class="col-xs-4 col-sm-2">
+							<div class="col-xs-5 col-sm-2">
 								<span class="order-price">10 DH</span>
 							</div>
-							<div class="col-xs-4 col-sm-1">
+							<div class="col-xs-7 col-sm-1">
 								<input type="text" class="form-control order-qte" value="1">
 							</div><!-- 
 							<div class="col-xs-4 col-sm-2">
@@ -63,12 +63,12 @@
 					<div class="col-xs-8 col-sm-9">
 						<div class="row">
 							<div class="col-xs-12 col-sm-7">
-								<span class="order-title">Product title without description</span>
+								<span class="order-title">Product title without description Product title without description Product title without description</span>
 							</div>
-							<div class="col-xs-4 col-sm-2">
+							<div class="col-xs-5 col-sm-2">
 								<span class="order-price">10 DH</span>
 							</div>
-							<div class="col-xs-4 col-sm-1">
+							<div class="col-xs-7 col-sm-1">
 								<input type="text" class="form-control order-qte" value="1">
 							</div><!-- 
 							<div class="col-xs-4 col-sm-2">
@@ -89,12 +89,12 @@
 					<div class="col-xs-8 col-sm-9">
 						<div class="row">
 							<div class="col-xs-12 col-sm-7">
-								<span class="order-title">Product title without description</span>
+								<span class="order-title">Product title without description Product title without description Product title without description</span>
 							</div>
-							<div class="col-xs-4 col-sm-2">
+							<div class="col-xs-5 col-sm-2">
 								<span class="order-price">10 DH</span>
 							</div>
-							<div class="col-xs-4 col-sm-1">
+							<div class="col-xs-7 col-sm-1">
 								<input type="text" class="form-control order-qte" value="1">
 							</div><!-- 
 							<div class="col-xs-4 col-sm-2">
@@ -115,12 +115,12 @@
 					<div class="col-xs-8 col-sm-9">
 						<div class="row">
 							<div class="col-xs-12 col-sm-7">
-								<span class="order-title">Product title without description</span>
+								<span class="order-title">Product title without description Product title without description Product title without description</span>
 							</div>
-							<div class="col-xs-4 col-sm-2">
+							<div class="col-xs-5 col-sm-2">
 								<span class="order-price">10 DH</span>
 							</div>
-							<div class="col-xs-4 col-sm-1">
+							<div class="col-xs-7 col-sm-1">
 								<input type="text" class="form-control order-qte" value="1">
 							</div><!-- 
 							<div class="col-xs-4 col-sm-2">
@@ -141,12 +141,12 @@
 					<div class="col-xs-8 col-sm-9">
 						<div class="row">
 							<div class="col-xs-12 col-sm-7">
-								<span class="order-title">Product title without description</span>
+								<span class="order-title">Product title without description Product title without description Product title without description</span>
 							</div>
-							<div class="col-xs-4 col-sm-2">
+							<div class="col-xs-5 col-sm-2">
 								<span class="order-price">10 DH</span>
 							</div>
-							<div class="col-xs-4 col-sm-1">
+							<div class="col-xs-7 col-sm-1">
 								<input type="text" class="form-control order-qte" value="1">
 							</div><!-- 
 							<div class="col-xs-4 col-sm-2">
@@ -167,12 +167,12 @@
 					<div class="col-xs-8 col-sm-9">
 						<div class="row">
 							<div class="col-xs-12 col-sm-7">
-								<span class="order-title">Product title without description</span>
+								<span class="order-title">Product title without description Product title without description Product title without description</span>
 							</div>
-							<div class="col-xs-4 col-sm-2">
+							<div class="col-xs-5 col-sm-2">
 								<span class="order-price">10 DH</span>
 							</div>
-							<div class="col-xs-4 col-sm-1">
+							<div class="col-xs-7 col-sm-1">
 								<input type="text" class="form-control order-qte" value="1">
 							</div><!-- 
 							<div class="col-xs-4 col-sm-2">
@@ -193,12 +193,12 @@
 					<div class="col-xs-8 col-sm-9">
 						<div class="row">
 							<div class="col-xs-12 col-sm-7">
-								<span class="order-title">Product title without description</span>
+								<span class="order-title">Product title without description Product title without description Product title without description</span>
 							</div>
-							<div class="col-xs-4 col-sm-2">
+							<div class="col-xs-5 col-sm-2">
 								<span class="order-price">10 DH</span>
 							</div>
-							<div class="col-xs-4 col-sm-1">
+							<div class="col-xs-7 col-sm-1">
 								<input type="text" class="form-control order-qte" value="1">
 							</div><!-- 
 							<div class="col-xs-4 col-sm-2">
@@ -219,12 +219,12 @@
 					<div class="col-xs-8 col-sm-9">
 						<div class="row">
 							<div class="col-xs-12 col-sm-7">
-								<span class="order-title">Product title without description</span>
+								<span class="order-title">Product title without description Product title without description Product title without description</span>
 							</div>
-							<div class="col-xs-4 col-sm-2">
+							<div class="col-xs-5 col-sm-2">
 								<span class="order-price">10 DH</span>
 							</div>
-							<div class="col-xs-4 col-sm-1">
+							<div class="col-xs-7 col-sm-1">
 								<input type="text" class="form-control order-qte" value="1">
 							</div><!-- 
 							<div class="col-xs-4 col-sm-2">
@@ -245,12 +245,12 @@
 					<div class="col-xs-8 col-sm-9">
 						<div class="row">
 							<div class="col-xs-12 col-sm-7">
-								<span class="order-title">Product title without description</span>
+								<span class="order-title">Product title without description Product title without description Product title without description</span>
 							</div>
-							<div class="col-xs-4 col-sm-2">
+							<div class="col-xs-5 col-sm-2">
 								<span class="order-price">10 DH</span>
 							</div>
-							<div class="col-xs-4 col-sm-1">
+							<div class="col-xs-7 col-sm-1">
 								<input type="text" class="form-control order-qte" value="1">
 							</div><!-- 
 							<div class="col-xs-4 col-sm-2">
@@ -263,6 +263,12 @@
 					</div>
 				</div>
 		    </div>
+
+			<!-- Start Add Order Button -->
+			<div id="add-order">
+				<a href="#"><i class="fas fa-plus fa-lg"></i></a>
+			</div>
+			<!-- End Add Order Button -->
 		</div>
 	</div>
     <!-- End Content -->

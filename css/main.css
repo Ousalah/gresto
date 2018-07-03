@@ -219,8 +219,8 @@ html::-webkit-scrollbar { display: none; }
     height: 100px;
     padding: 10px;
     background: #fff;
-    border-bottom: 1px solid gray;
-    color: gray;
+    border-bottom: 1px solid #6e6e6e;
+    color: #333;
 }
 
 .orders.content .order-detail:last-child {
@@ -230,47 +230,72 @@ html::-webkit-scrollbar { display: none; }
 .orders.content .order-detail img {
     width: 120px;
     height: 80px;
-    /*border-radius: 7px;*/
 }
 
 .orders.content .order-detail .order-title {
     font-size: 18px;
+    line-height: 80px;
     text-transform: capitalize;
     white-space: nowrap;
-    display: table-cell;
-    vertical-align: middle;
     height: 80px;
-}
-
-/*.orders.content .order-detail .order-title < div {
+    display: block;
+    text-overflow: ellipsis;
     overflow: hidden;
-}*/
+}
 
 .orders.content .order-detail .order-price {
     font-size: 16px;
-    display: table-cell;
-    vertical-align: middle;
+    line-height: 80px;
     height: 80px;
 }
 
 .orders.content .order-detail .order-qte {
-    width: 60px;
-    height: 30px;
+    width: 100px;
+    height: 25px;
     text-align: center;
     background: transparent;
-    border: 2px solid gray;
+    border: 2px solid #ececec;
     border-radius: 5px;
     box-shadow: none;
-    color: gray;
     font-size: 16px;
     margin: 25px auto 0;
     padding: 6px 3px;
+    background-color: #ececec;
 }
 
 .orders.content .order-detail .order-delete {
     position: absolute;
     right: 20px;
-    color: gray;
+    color: #333;
+}
+
+#add-order {
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 50%;
+    background: #E41B17;
+    text-align: center;
+    position: fixed;
+    right: 40px;
+    bottom: 60px;
+    z-index: 9999;
+    cursor: pointer;
+}
+
+#add-order > a {
+    color: #ddd;
+}
+
+#add-order > a:hover,
+#add-order > a:focus {
+    text-decoration: none;
+}
+
+#add-order > a > i {
+    display: block;
+    height: 100%;
+    line-height: 60px;
 }
 /* end Orders content */
 
@@ -307,6 +332,7 @@ html::-webkit-scrollbar { display: none; }
     font-size: 18px;
 }
 /* End Section Footer */
+
 
 /*Start Section Loading */
 .loading-overlay {
