@@ -266,7 +266,7 @@
 
 			<!-- Start Add Order Button -->
 			<div id="add-order">
-				<a href="#"><i class="fas fa-plus fa-lg"></i></a>
+				<a href="menu"><i class="fas fa-plus fa-lg"></i></a>
 			</div>
 			<!-- End Add Order Button -->
 		</div>
