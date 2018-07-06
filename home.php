@@ -3,8 +3,7 @@
     <!-- Start Content -->
     <div class="home content">
       <div class="container">
-        <div class="row">
-          <div class="col-xs-6 col-sm-4">
+        <div class="wrapper">
             <div class="box">
               <a href="<?php dirname(__FILE__) ?>orders">
                 <img src="images/boxes/pic1.jpg" alt="">
@@ -14,8 +13,6 @@
                 </div>
               </a>
             </div>
-          </div>
-          <div class="col-xs-6 col-sm-4">
             <div class="box">
               <a href="<?php dirname(__FILE__) ?>tables">
                 <img src="images/boxes/pic2.jpg" alt="">
@@ -25,8 +22,6 @@
                 </div>
               </a>
             </div>
-          </div>
-          <div class="col-xs-6 col-sm-4">
             <div class="box">
               <a href="<?php dirname(__FILE__) ?>staff">
                 <img src="images/boxes/pic3.jpg" alt="">
@@ -36,8 +31,6 @@
                 </div>
               </a>
             </div>
-          </div>
-          <div class="col-xs-6 col-sm-4">
             <div class="box">
               <a href="<?php dirname(__FILE__) ?>menu">
                 <img src="images/boxes/pic4.jpg" alt="">
@@ -47,8 +40,6 @@
                 </div>
               </a>
             </div>
-          </div>
-          <div class="col-xs-6 col-sm-4">
             <div class="box">
               <a href="<?php dirname(__FILE__) ?>reports">
                 <img src="images/boxes/pic5.jpg" alt="">
@@ -58,8 +49,6 @@
                 </div>
               </a>
             </div>
-          </div>
-          <div class="col-xs-6 col-sm-4">
             <div class="box">
               <a href="<?php dirname(__FILE__) ?>buy">
                 <img src="images/boxes/pic6.jpg" alt="">
@@ -69,8 +58,6 @@
                 </div>
               </a>
             </div>
-          </div>
-          <div class="col-xs-6 col-sm-4">
             <div class="box">
               <a href="<?php dirname(__FILE__) ?>settings">
                 <img src="images/boxes/pic7.jpg" alt="">
@@ -80,8 +67,6 @@
                 </div>
               </a>
             </div>
-          </div>
-          <div class="col-xs-6 col-sm-4">
             <div class="box">
               <a href="<?php dirname(__FILE__) ?>share">
                 <img src="images/boxes/pic8.jpg" alt="">
@@ -91,8 +76,6 @@
                 </div>
               </a>
             </div>
-          </div>
-          <div class="col-xs-6 col-sm-4">
             <div class="box">
               <a href="<?php dirname(__FILE__) ?>quite">
                 <img src="images/boxes/pic9.jpg" alt="">
@@ -102,7 +85,6 @@
                 </div>
               </a>
             </div>
-          </div>
         </div>
       </div>
     </div>

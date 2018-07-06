@@ -24,6 +24,24 @@
     .navbar-fixed-top .navbar-collapse,
     .navbar-fixed-bottom .navbar-collapse { max-height: none; }
 
+	.home.content .wrapper {
+		grid-template-columns: repeat(2, 1fr);
+		grid-template-rows: repeat(5, 1fr);
+	}
+
+	.home.content .wrapper .box .box-content {
+		font-size: 30px;
+	}
+
+	.home.content .wrapper .box:last-child {
+		grid-column: 1 / span 2;
+	}
+
+	.home.content .wrapper .box .box-content i {
+		width: 55px;
+		line-height: 55px;
+	}
+
 	.orders.content .order-detail .order-title {
 		height: 45px;
 		line-height: normal;
