@@ -160,7 +160,7 @@ html::-webkit-scrollbar { display: none; }
 	background-color: #000;
 	opacity: 0.85;
 	min-height: 100%;
-	padding: 80px 20px 60px;
+	padding: 80px 0 60px;
 }
 
 .tables.content .single-table {
@@ -218,7 +218,7 @@ html::-webkit-scrollbar { display: none; }
     background-color: #000;
     opacity: 0.85;
     min-height: 100%;
-    padding: 10px 20px 60px;
+    padding: 10px 0 100px;
 }
 
 .orders.content .order-detail {
@@ -270,6 +270,10 @@ html::-webkit-scrollbar { display: none; }
 }
 
 .orders.content .order-detail .order-delete {
+    position: relative;
+}
+
+.orders.content .order-detail .order-delete > a {
     position: absolute;
     right: 20px;
     color: #333;
@@ -312,7 +316,7 @@ html::-webkit-scrollbar { display: none; }
     background-color: #000;
     opacity: 0.85;
     min-height: 100%;
-    padding: 10px 20px 60px;
+    padding: 10px 0 60px;
 }
 
 .menu.content .card {
@@ -504,3 +508,9 @@ html::-webkit-scrollbar { display: none; }
             transition: all 0.5s ease-in-out;
 }
 /* End Grouping System */
+
+/* Start My framework */
+.padding-left-10 {
+    padding: 0 0 0 10px;
+}
+/* End My framework */

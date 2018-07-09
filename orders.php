@@ -5,8 +5,8 @@
 		<div class="container">
 			<div class="order-detail">
 				<div class="row">
-					<div class="col-xs-3 col-sm-2">
-						<img class="img-responsive img-thumbnail" src="https://picsum.photos/0/100/?random" alt="">
+					<div class="col-xs-3 col-sm-2 padding-left-10">
+						<img class="img-responsive img-thumbnail" src="https://picsum.photos/200/100/?random" alt="">
 					</div>
 					<div class="col-xs-8 col-sm-9">
 						<div class="row">
@@ -24,15 +24,15 @@
 							</div> -->
 						</div>
 					</div>
-					<div class="col-xs-1 col-sm-1">
-						<a class="order-delete" href="#"><i class="fas fa-times"></i></a>
+					<div class="order-delete">
+						<a href="#"><i class="fas fa-times fa-lg"></i></a>
 					</div>
 				</div>
 		    </div>
 			<div class="order-detail">
 				<div class="row">
-					<div class="col-xs-3 col-sm-2">
-						<img class="img-responsive img-thumbnail" src="https://picsum.photos/0/100/?random" alt="">
+					<div class="col-xs-3 col-sm-2 padding-left-10">
+						<img class="img-responsive img-thumbnail" src="https://picsum.photos/200/100/?random" alt="">
 					</div>
 					<div class="col-xs-8 col-sm-9">
 						<div class="row">
@@ -50,15 +50,15 @@
 							</div> -->
 						</div>
 					</div>
-					<div class="col-xs-1 col-sm-1">
-						<a class="order-delete" href="#"><i class="fas fa-times"></i></a>
+					<div class="order-delete">
+						<a href="#"><i class="fas fa-times fa-lg"></i></a>
 					</div>
 				</div>
 		    </div>
 			<div class="order-detail">
 				<div class="row">
-					<div class="col-xs-3 col-sm-2">
-						<img class="img-responsive img-thumbnail" src="https://picsum.photos/0/100/?random" alt="">
+					<div class="col-xs-3 col-sm-2 padding-left-10">
+						<img class="img-responsive img-thumbnail" src="https://picsum.photos/200/100/?random" alt="">
 					</div>
 					<div class="col-xs-8 col-sm-9">
 						<div class="row">
@@ -76,15 +76,15 @@
 							</div> -->
 						</div>
 					</div>
-					<div class="col-xs-1 col-sm-1">
-						<a class="order-delete" href="#"><i class="fas fa-times"></i></a>
+					<div class="order-delete">
+						<a href="#"><i class="fas fa-times fa-lg"></i></a>
 					</div>
 				</div>
 		    </div>
 			<div class="order-detail">
 				<div class="row">
-					<div class="col-xs-3 col-sm-2">
-						<img class="img-responsive img-thumbnail" src="https://picsum.photos/0/100/?random" alt="">
+					<div class="col-xs-3 col-sm-2 padding-left-10">
+						<img class="img-responsive img-thumbnail" src="https://picsum.photos/200/100/?random" alt="">
 					</div>
 					<div class="col-xs-8 col-sm-9">
 						<div class="row">
@@ -102,15 +102,15 @@
 							</div> -->
 						</div>
 					</div>
-					<div class="col-xs-1 col-sm-1">
-						<a class="order-delete" href="#"><i class="fas fa-times"></i></a>
+					<div class="order-delete">
+						<a href="#"><i class="fas fa-times fa-lg"></i></a>
 					</div>
 				</div>
 		    </div>
 			<div class="order-detail">
 				<div class="row">
-					<div class="col-xs-3 col-sm-2">
-						<img class="img-responsive img-thumbnail" src="https://picsum.photos/0/100/?random" alt="">
+					<div class="col-xs-3 col-sm-2 padding-left-10">
+						<img class="img-responsive img-thumbnail" src="https://picsum.photos/200/100/?random" alt="">
 					</div>
 					<div class="col-xs-8 col-sm-9">
 						<div class="row">
@@ -128,15 +128,15 @@
 							</div> -->
 						</div>
 					</div>
-					<div class="col-xs-1 col-sm-1">
-						<a class="order-delete" href="#"><i class="fas fa-times"></i></a>
+					<div class="order-delete">
+						<a href="#"><i class="fas fa-times fa-lg"></i></a>
 					</div>
 				</div>
 		    </div>
 			<div class="order-detail">
 				<div class="row">
-					<div class="col-xs-3 col-sm-2">
-						<img class="img-responsive img-thumbnail" src="https://picsum.photos/0/100/?random" alt="">
+					<div class="col-xs-3 col-sm-2 padding-left-10">
+						<img class="img-responsive img-thumbnail" src="https://picsum.photos/200/100/?random" alt="">
 					</div>
 					<div class="col-xs-8 col-sm-9">
 						<div class="row">
@@ -154,15 +154,15 @@
 							</div> -->
 						</div>
 					</div>
-					<div class="col-xs-1 col-sm-1">
-						<a class="order-delete" href="#"><i class="fas fa-times"></i></a>
+					<div class="order-delete">
+						<a href="#"><i class="fas fa-times fa-lg"></i></a>
 					</div>
 				</div>
 		    </div>
 			<div class="order-detail">
 				<div class="row">
-					<div class="col-xs-3 col-sm-2">
-						<img class="img-responsive img-thumbnail" src="https://picsum.photos/0/100/?random" alt="">
+					<div class="col-xs-3 col-sm-2 padding-left-10">
+						<img class="img-responsive img-thumbnail" src="https://picsum.photos/200/100/?random" alt="">
 					</div>
 					<div class="col-xs-8 col-sm-9">
 						<div class="row">
@@ -180,15 +180,15 @@
 							</div> -->
 						</div>
 					</div>
-					<div class="col-xs-1 col-sm-1">
-						<a class="order-delete" href="#"><i class="fas fa-times"></i></a>
+					<div class="order-delete">
+						<a href="#"><i class="fas fa-times fa-lg"></i></a>
 					</div>
 				</div>
 		    </div>
 			<div class="order-detail">
 				<div class="row">
-					<div class="col-xs-3 col-sm-2">
-						<img class="img-responsive img-thumbnail" src="https://picsum.photos/0/100/?random" alt="">
+					<div class="col-xs-3 col-sm-2 padding-left-10">
+						<img class="img-responsive img-thumbnail" src="https://picsum.photos/200/100/?random" alt="">
 					</div>
 					<div class="col-xs-8 col-sm-9">
 						<div class="row">
@@ -206,15 +206,15 @@
 							</div> -->
 						</div>
 					</div>
-					<div class="col-xs-1 col-sm-1">
-						<a class="order-delete" href="#"><i class="fas fa-times"></i></a>
+					<div class="order-delete">
+						<a href="#"><i class="fas fa-times fa-lg"></i></a>
 					</div>
 				</div>
 		    </div>
 			<div class="order-detail">
 				<div class="row">
-					<div class="col-xs-3 col-sm-2">
-						<img class="img-responsive img-thumbnail" src="https://picsum.photos/0/100/?random" alt="">
+					<div class="col-xs-3 col-sm-2 padding-left-10">
+						<img class="img-responsive img-thumbnail" src="https://picsum.photos/200/100/?random" alt="">
 					</div>
 					<div class="col-xs-8 col-sm-9">
 						<div class="row">
@@ -232,15 +232,15 @@
 							</div> -->
 						</div>
 					</div>
-					<div class="col-xs-1 col-sm-1">
-						<a class="order-delete" href="#"><i class="fas fa-times"></i></a>
+					<div class="order-delete">
+						<a href="#"><i class="fas fa-times fa-lg"></i></a>
 					</div>
 				</div>
 		    </div>
 			<div class="order-detail">
 				<div class="row">
-					<div class="col-xs-3 col-sm-2">
-						<img class="img-responsive img-thumbnail" src="https://picsum.photos/0/100/?random" alt="">
+					<div class="col-xs-3 col-sm-2 padding-left-10">
+						<img class="img-responsive img-thumbnail" src="https://picsum.photos/200/100/?random" alt="">
 					</div>
 					<div class="col-xs-8 col-sm-9">
 						<div class="row">
@@ -258,8 +258,8 @@
 							</div> -->
 						</div>
 					</div>
-					<div class="col-xs-1 col-sm-1">
-						<a class="order-delete" href="#"><i class="fas fa-times"></i></a>
+					<div class="order-delete">
+						<a href="#"><i class="fas fa-times fa-lg"></i></a>
 					</div>
 				</div>
 		    </div>
