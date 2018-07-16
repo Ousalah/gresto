@@ -5,7 +5,7 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-      <title>Design With Bootstrap | Template 1 - Home</title>
+      <title>Voie Info | Galaxy v3.0</title>
 
       <!-- Bootstrap CSS -->
       <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -39,7 +39,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="home">Ousalah <span>Inc.</span></a>
+          <a class="navbar-brand" href="home"> Galaxy <span>v3.0</span></a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
